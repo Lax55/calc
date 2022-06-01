@@ -11,5 +11,5 @@ total_sub = sub_work.sub(a,b)
 total_div = div_work.div(a,b)
 total_mul = mul_work.mul(a,b)
 
-print (f"totak sum is {total_sum}. total sub is {total_sub}. total mul is {total_mul}. total div is {total_div}")
+print (f"total sum is {total_sum}. total sub is {total_sub}. total mul is {total_mul}. total div is {total_div}")
 
